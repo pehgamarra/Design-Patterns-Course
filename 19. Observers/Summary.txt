@@ -1,0 +1,5 @@
+Observer is an intrusive approrach: an obervable must provide an event to subscribe to
+
+Subscription and unsubscription handled with addition/removal of items in a list
+
+Property notifications are easy: dependent property notify are tricky

@@ -1,0 +1,16 @@
+--Single Responsability Principle:
+* A class should only have one reason to change
+* Separation of concerns - different classes handling different, independent task/problems
+
+-- Open-Closed Principle
+*Classes should be open for extensions but closed for modification
+
+--Liskov Substition Principle
+* U should be able to substitute a base type for a subtype
+
+--Interface Segregation Principle
+* Dont put too much into an interface; split into separe interfaces
+* YAGNI - You aint going to need it
+
+--Dependency Inversion Principle
+* High-level modules should not depend upon low-level ones; use abstractions 

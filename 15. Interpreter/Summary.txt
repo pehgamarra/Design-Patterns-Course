@@ -1,0 +1,4 @@
+Barring simples cases, an interpreter acts in two stages
+
+Parsed data can then be travesed
+

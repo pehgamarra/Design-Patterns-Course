@@ -1,0 +1,5 @@
+An interator specified how u can traverse an object
+
+Stateful interators cannot be recursive
+
+yield allows for much more succint interation

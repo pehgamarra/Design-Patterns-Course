@@ -1,0 +1,3 @@
+Store common data externally
+Specify and index or a reference into the external data store
+Define the idea of 'ranges' on homogeneous collections and store data reelated to those ranges
